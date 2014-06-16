@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Encuesta</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="instruccion">Por favor dedique un momento para realizar esta encuesta, la información proporcionada será utilizada para mejorar nuestro servicio</string>
+    <string name="pregunta1">La rapidez del servicio fue</string>
+    <string name="pregunta2">El trato en el servicio fue</string>
+    <string name="pregunta3">La solución de su caso se resolvió de forma satisfactoria</string>
+    <string name="title_activity_start">Start</string>
+    <string name="terminar">Terminar</string>
+    <string name="Login_title">Encuestas de calidad de FIME</string>
+    <string name="Login_username">Usuario</string>
+    <string name="Login_password">Password</string>
+    <string name="Login_bLogear">Iniciar sesión</string>
+    <string name="Login_fecha">Fecha</string>
+    <string name="nombre">Ingresar el nombre</string>
+    <string name="dni">Ingresar el DNI</string>
+    <string name="tlf">Ingresar el telefono</string>
+    <string name="email">Ingresar el email</string>
+    <string name="insertar">Insertar</string>
+    <string name="mostrar">Mostrar</string>
+
+</resources>
